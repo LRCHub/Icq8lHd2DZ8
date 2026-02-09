@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ぬくもり",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2026-02-09T00:46:07.474589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぬくもり",
+      "artist": "HOME MADE KAZOKU",
+      "has_synced": true,
+      "path": "select/01_ぬくもり_HOME_MADE_KAZOKU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぬくもり",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/02_ぬくもり_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぬくもり～aigakikoeru～",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/03_ぬくもり~aigakikoeru~_KOKIA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぬくもり",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/04_ぬくもり_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぬくもり",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/05_ぬくもり_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぬくもり (Nukumori / 온기)",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_ぬくもり_(Nukumori___온기)_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぬくもり (Nukumori / 온기)",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/07_ぬくもり_(Nukumori___온기)_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぬくもり",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/08_ぬくもり_miwa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぬくもり〜aigakikoeru〜",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/09_ぬくもり〜aigakikoeru〜_KOKIA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぬくもり",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_ぬくもり_川崎_鷹也.txt"
+    }
+  ]
+}
